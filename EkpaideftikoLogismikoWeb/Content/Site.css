@@ -1,0 +1,176 @@
+﻿body {
+    /*padding-top: 50px;
+    padding-bottom: 20px;*/
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    /*padding-left: 15px;
+    padding-right: 15px;*/
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.navbar-nav {
+    font-size: 1.75rem;
+}
+
+.unit-jumbotron {
+    background-attachment: fixed;
+    height: 350px;
+    color: white;
+    background-size: 100% 100%;
+}
+
+.main-menu-jumbotron {
+    background: #f00 url(/Content/Images/Backgrounds/MenuBackground.jpg) no-repeat center center;
+    background-attachment: fixed;
+    height: 350px;
+    color: white;
+}
+
+.main-menu-action{
+    font-size:4rem;
+    display:inline-block;
+}
+
+.main-menu-action:hover{
+    cursor:pointer;
+}
+
+.main-menu-action span{
+    font-size:10rem;
+    display:block;
+}
+
+.main-menu-action span{
+    transition: .2s;
+}
+
+.main-menu-action:hover span{
+    color:red;
+}
+
+.unit{
+    margin-top: 2rem;
+    cursor: pointer;
+}
+
+.unit > div{
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.unit > img{
+    transition: .2s ease;
+}
+
+.unit:hover > img{
+    opacity: .6;
+}
+
+.person {
+    margin-top: 2rem;
+    cursor: pointer;
+}
+
+.person > img{
+    transition: .2s ease;
+}
+
+.person:hover > img{
+    opacity: .6;
+}
+
+#detailsModal .modal-dialog{
+   width: 75vw;
+}
+
+#detailsModal .modal-header{
+    font-size: 1rem;
+}
+
+#detailsModal .modal-body{
+    height:700px;
+    font-size: 1.8rem;
+}
+
+#desc{
+    margin-top: 1rem;
+    height:570px;
+    overflow-y:auto;
+}
+
+.quiz-link{
+    font-size: 2rem;
+    display:inline-block;
+    margin-bottom: 1rem;
+}
+
+#score{
+    font-size: 3rem;
+}
+
+#restart{
+    font-size: 2rem;
+    margin-top:1.5rem;
+}
+
+#timer{
+    font-size: 2.5rem;
+}
+
+#questionForm{
+    font-size: 2rem;
+}
+
+#questionCounter{
+    margin-bottom: 2rem;
+}
+
+#questionText{
+    margin-bottom:1.5rem;
+}
+
+#questionSubmit{
+    margin-top: 2rem;
+}
+
+#loginModal .modal-dialog {
+    width:20vw;
+}
+
+#loginModal .form-control, #loginModal form {
+    max-width: 100%;
+}
+
+#loginModal img{
+    margin-bottom: 3rem;
+}
+
+.navbar .pull-right{
+    margin-top:0.75rem;
+    margin-right:1rem;
+}
+
+.navbar span.pull-right{
+    color:white;
+    font-size:1.5rem;
+    margin-top:1.5rem;
+}
+#questionForm input[type="radio"], #questionForm label {
+    cursor: pointer;
+}
