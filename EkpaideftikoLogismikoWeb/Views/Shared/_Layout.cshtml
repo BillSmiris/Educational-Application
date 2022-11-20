@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Πρόσωπα του 1821</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @*@Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })*@
+            <a href="@Url.Action("Index", "Home")" class="navbar-brand">
+                <img src="~/Content/Images/UI/Logo.png" title="title" alt="additional title" height="30" style="margin-top:-0.5rem" />
+            </a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                <li>@Html.ActionLink("Υλικό", "Units", "Units")</li>
+                <li>@Html.ActionLink("Αξιολόγηση", "Quizes", "Quizes")</li>
+                <li>@Html.ActionLink("Βοήθεια", "Help", "Home", new { target = "_blank" })</li>
+            </ul>
+            @{
+
+                //if (string.IsNullOrEmpty(Request.Cookies["username"].Value))
+                if (Request.Cookies["username"] == null)
+                {
+                    <button type="button" class="btn btn-primary pull-right" data-toggle="modal" data-target="#loginModal">
+                        Σύνδεση
+                    </button>
+                }
+                else
+                {
+                    <a href="@Url.Action("Logout", "Login")" class="btn btn-primary pull-right">
+                        Aποσύνδεση
+                    </a>
+                    <span class="pull-right">@(Request.Cookies["username"].Value.Split('=')[1])</span>
+                }
+            }
+        </div>
+    </div>
+    <div class="body-content">
+        @RenderBody()
+        <hr />
+        <footer class="container">
+            <p style="display:inline;">&copy; @DateTime.Now.Year - TrackRecord</p>
+            <a href="#" class="pull-right">Back to top</a>
+        </footer>
+    </div>
+
+    @{
+        if (Request.Cookies["username"] == null)
+        {
+            <div id="loginModal" class="modal fade" role="dialog">
+                <div class="modal-dialog">
+                    <!-- Modal content-->
+                    <div class="modal-content" style="width:100%;">
+                        @*<div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h3 id="name" class="modal-title"></h3>
+                            </div>*@
+                        <div class="modal-body">
+                            <div class="text-center">
+                                <img src="~/Content/Images/UI/Logo.png" title="title" alt="additional title" height="90" />
+                            </div>
+                            <form method="post" action="@Url.Action("Login", "Login")">
+                                <div class="form-group">
+                                    <label for="username">Όνομα χρήστη</label>
+                                    <input type="text" class="form-control" id="username" name="username" />
+                                </div>
+                                <div class="form-group">
+                                    <label for="password">Κωδικός</label>
+                                    <input type="password" class="form-control" id="password" name="password" />
+                                </div>
+                                <div class="text-center">
+                                    <button type="submit" class="btn btn-primary">Σύνδεση</button>
+                                </div>
+                            </form>
+                        </div>
+                        @*<div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                            </div>*@
+                    </div>
+                </div>
+            </div>
+        }
+    }
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/Site.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Units";
+}
+
+<div class="container" style="margin-top:5rem">
+    <h2>Υλικό</h2>
+    <hr/>
+    @{ int i = 0; }
+    @foreach(string unit in ViewBag.units)
+    {
+        i++;
+        <div class="col-xs-6 text-center">
+            <div id="@(unit)" class="unit">
+                <img src="~/Content/Images/Backgrounds/@(unit).jpg" height="300" />
+                <div>Κεφάλαιο @(i): @(ViewBag.titles[i - 1])</div>
+            </div>
+        </div>
+    }
+</div>

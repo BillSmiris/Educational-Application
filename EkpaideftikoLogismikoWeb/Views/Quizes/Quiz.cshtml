@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Quiz";
+}
+
+<div class="container" style="margin-top:5rem">
+    <h2>Αξιολόγηση - Κεφάλαιο @(ViewBag.num): @(ViewBag.unitTitle)</h2>
+    <hr />
+    <div id="questionForm">
+        <div class="text-center">
+            <div id="timer"></div>
+            <div id="questionCounter">Ερώτηση 1/@(ViewBag.totalQuestions)</div>
+        </div>
+
+        <div id="questionText">@(ViewBag.questions[0].Text)</div>
+
+        <input type="radio" id="answer0" name="answer" value="0">
+        <label id="answer0Label" for="answer0">@(ViewBag.questions[0].Answers[0].Text)</label><br>
+        <input type="radio" id="answer1" name="answer" value="1">
+        <label id="answer1Label" for="answer1">@(ViewBag.questions[0].Answers[1].Text)</label><br>
+        <input type="radio" id="answer2" name="answer" value="2">
+        <label id="answer2Label" for="answer2">@(ViewBag.questions[0].Answers[2].Text)</label><br />
+        <input type="radio" id="answer3" name="answer" value="3">
+        <label id="answer3Label" for="answer3">@(ViewBag.questions[0].Answers[3].Text)</label>
+        <div class="text-center">
+            <button id="questionSubmit">Απάντηση</button>
+        </div>
+    </div>
+    <div id="end" style="visibility:hidden;" class="text-center">
+        <div id="score"></div>
+        <button id="restart">Επανεκκίνιση</button>
+    </div>
+</div>
+
+<script>
+    var questions = JSON.parse('@Html.Raw(Json.Encode(ViewBag.questions))');
+    var i = 0;
+    var totalQuestions = parseInt('@(ViewBag.totalQuestions)');
+    var correctAnswers = 0;
+    var time = 30;
+    var usetimer = true;
+</script>

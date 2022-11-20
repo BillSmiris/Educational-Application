@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Quizes";
+}
+
+<div class="container" style="margin-top:5rem">
+    <h2>Αξιολόγηση</h2>
+    <hr/>
+    @{ 
+        int i = 0;
+    }
+    @foreach (string unit in ViewBag.units)
+    {
+        i++;
+        <a href="/Quizes/Quiz/@(unit)" class="quiz-link">Κεφάλαιο @(i): @(ViewBag.titles[i - 1])</a><br/>
+    }
+    <a href="/Quizes/Quiz/revision" class="quiz-link">Επανάληψη</a>
+</div>
+
