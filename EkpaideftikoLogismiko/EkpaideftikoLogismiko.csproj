@@ -1,0 +1,156 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Data\peopledata\peopleinfo\androutsos.txt" />
+    <None Remove="Resources\Data\peopledata\peopleinfo\bouboulina.txt" />
+    <None Remove="Resources\Data\peopledata\peopleinfo\byron.txt" />
+    <None Remove="Resources\Data\peopledata\peopleinfo\canning.txt" />
+    <None Remove="Resources\Data\peopledata\peopleinfo\diakos.txt" />
+    <None Remove="Resources\Data\peopledata\peopleinfo\karaiskakis.txt" />
+    <None Remove="Resources\Data\peopledata\peopleinfo\kolokotronis.txt" />
+    <None Remove="Resources\Data\peopledata\peopleinfo\papaflessas.txt" />
+    <None Remove="Resources\Data\peopledata\peopleinfo\skoufas.txt" />
+    <None Remove="Resources\Data\peopledata\peopleinfo\tsakalov.txt" />
+    <None Remove="Resources\Data\peopledata\peopleinfo\xanthos.txt" />
+    <None Remove="Resources\Data\quizes\revision.txt" />
+    <None Remove="Resources\Data\quizes\unit1.txt" />
+    <None Remove="Resources\Data\quizes\unit2.txt" />
+    <None Remove="Resources\Data\quizes\unit3.txt" />
+    <None Remove="Resources\Data\unitdata\unit1.txt" />
+    <None Remove="Resources\Data\unitdata\unit2.txt" />
+    <None Remove="Resources\Data\unitdata\unit3.txt" />
+    <None Remove="Resources\Data\Εγχειρίδιο Χρήστη - Εφαρμογή Desktop.pdf" />
+    <None Remove="Resources\doge.jpg" />
+    <None Remove="Resources\Images\Backgrounds\DetailsBackground.jpg" />
+    <None Remove="Resources\Images\Backgrounds\MenuBackground.jpg" />
+    <None Remove="Resources\Images\Backgrounds\QuizMenuBackground.png" />
+    <None Remove="Resources\Images\Backgrounds\unit1.jpg" />
+    <None Remove="Resources\Images\Backgrounds\unit2.jpg" />
+    <None Remove="Resources\Images\Backgrounds\unit3.jpg" />
+    <None Remove="Resources\Images\Button.png" />
+    <None Remove="Resources\Images\ButtonHover.png" />
+    <None Remove="Resources\Images\People\androutsos.jpg" />
+    <None Remove="Resources\Images\People\bouboulina.jpg" />
+    <None Remove="Resources\Images\People\byron.jpg" />
+    <None Remove="Resources\Images\People\canning.jpg" />
+    <None Remove="Resources\Images\People\diakos.jpg" />
+    <None Remove="Resources\Images\People\karaiskakis.jpg" />
+    <None Remove="Resources\Images\People\kolokotronis.jpg" />
+    <None Remove="Resources\Images\People\papaflessas.jpg" />
+    <None Remove="Resources\Images\People\skoufas.jpg" />
+    <None Remove="Resources\Images\People\tsakalov.jpg" />
+    <None Remove="Resources\Images\People\xanthos.jpg" />
+    <None Remove="Resources\Images\UI\ButtonDisabled.png" />
+    <None Remove="Resources\Images\UI\Logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Remove="Resources\Data\peopledata\peopledesc\androutsos.xaml" />
+    <Page Remove="Resources\Data\peopledata\peopledesc\bouboulina.xaml" />
+    <Page Remove="Resources\Data\peopledata\peopledesc\byron.xaml" />
+    <Page Remove="Resources\Data\peopledata\peopledesc\canning.xaml" />
+    <Page Remove="Resources\Data\peopledata\peopledesc\diakos.xaml" />
+    <Page Remove="Resources\Data\peopledata\peopledesc\karaiskakis.xaml" />
+    <Page Remove="Resources\Data\peopledata\peopledesc\kolokotronis.xaml" />
+    <Page Remove="Resources\Data\peopledata\peopledesc\papaflessas.xaml" />
+    <Page Remove="Resources\Data\peopledata\peopledesc\skoufas.xaml" />
+    <Page Remove="Resources\Data\peopledata\peopledesc\tsakalov.xaml" />
+    <Page Remove="Resources\Data\peopledata\peopledesc\xanthos.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Npgsql" Version="4.1.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Data\peopledata\peopledesc\diakos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Resource>
+    <Resource Include="Resources\Data\peopledata\peopledesc\androutsos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Resource>
+    <Resource Include="Resources\Data\peopledata\peopledesc\bouboulina.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Resource>
+    <Resource Include="Resources\Data\peopledata\peopledesc\karaiskakis.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Resource>
+    <Resource Include="Resources\Data\peopledata\peopledesc\papaflessas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Resource>
+    <Resource Include="Resources\Data\peopledata\peopledesc\byron.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Resource>
+    <Resource Include="Resources\Data\peopledata\peopledesc\canning.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Resource>
+    <Resource Include="Resources\Data\peopledata\peopledesc\kolokotronis.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Resource>
+    <Resource Include="Resources\Data\peopledata\peopledesc\xanthos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Resource>
+    <Resource Include="Resources\Data\peopledata\peopledesc\tsakalov.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Resource>
+    <Resource Include="Resources\Data\peopledata\peopledesc\skoufas.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Resource>
+    <Resource Include="Resources\Data\peopledata\peopleinfo\androutsos.txt" />
+    <Resource Include="Resources\Data\peopledata\peopleinfo\bouboulina.txt" />
+    <Resource Include="Resources\Data\peopledata\peopleinfo\byron.txt" />
+    <Resource Include="Resources\Data\peopledata\peopleinfo\canning.txt" />
+    <Resource Include="Resources\Data\peopledata\peopleinfo\diakos.txt" />
+    <Resource Include="Resources\Data\peopledata\peopleinfo\karaiskakis.txt" />
+    <Resource Include="Resources\Data\peopledata\peopleinfo\kolokotronis.txt" />
+    <Resource Include="Resources\Data\peopledata\peopleinfo\papaflessas.txt" />
+    <Resource Include="Resources\Data\peopledata\peopleinfo\skoufas.txt" />
+    <Resource Include="Resources\Data\peopledata\peopleinfo\tsakalov.txt" />
+    <Resource Include="Resources\Data\peopledata\peopleinfo\xanthos.txt" />
+    <Resource Include="Resources\Data\quizes\revision.txt" />
+    <Resource Include="Resources\Data\quizes\unit1.txt" />
+    <Resource Include="Resources\Data\quizes\unit2.txt" />
+    <Resource Include="Resources\Data\quizes\unit3.txt" />
+    <Resource Include="Resources\Data\unitdata\unit1.txt" />
+    <Resource Include="Resources\Data\unitdata\unit2.txt" />
+    <Resource Include="Resources\Images\Backgrounds\DetailsBackground.jpg" />
+    <Resource Include="Resources\Images\Backgrounds\QuizMenuBackground.png" />
+    <Resource Include="Resources\Images\People\androutsos.jpg" />
+    <Resource Include="Resources\Images\People\bouboulina.jpg" />
+    <Resource Include="Resources\Images\People\byron.jpg" />
+    <Resource Include="Resources\Images\People\canning.jpg" />
+    <Resource Include="Resources\Images\People\diakos.jpg" />
+    <Resource Include="Resources\Images\People\karaiskakis.jpg" />
+    <Resource Include="Resources\Images\People\kolokotronis.jpg" />
+    <Resource Include="Resources\Images\People\papaflessas.jpg" />
+    <Resource Include="Resources\Images\People\skoufas.jpg" />
+    <Resource Include="Resources\Data\unitdata\unit3.txt" />
+    <Resource Include="Resources\Images\Backgrounds\MenuBackground.jpg" />
+    <Resource Include="Resources\Images\Backgrounds\unit1.jpg" />
+    <Resource Include="Resources\Images\Backgrounds\unit2.jpg" />
+    <Resource Include="Resources\Images\Backgrounds\unit3.jpg" />
+    <Resource Include="Resources\Images\People\tsakalov.jpg" />
+    <Resource Include="Resources\Images\People\xanthos.jpg" />
+    <Resource Include="Resources\Images\UI\Button.png" />
+    <Resource Include="Resources\Images\UI\ButtonDisabled.png" />
+    <Resource Include="Resources\Images\UI\ButtonHover.png" />
+    <Resource Include="Resources\Images\UI\Logo.png" />
+  </ItemGroup>
+
+</Project>

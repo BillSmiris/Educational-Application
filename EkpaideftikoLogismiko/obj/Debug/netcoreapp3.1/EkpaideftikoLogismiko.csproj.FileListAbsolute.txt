@@ -1,0 +1,107 @@
+C:\Users\user\Desktop\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.exe
+C:\Users\user\Desktop\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.deps.json
+C:\Users\user\Desktop\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.runtimeconfig.json
+C:\Users\user\Desktop\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.runtimeconfig.dev.json
+C:\Users\user\Desktop\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.dll
+C:\Users\user\Desktop\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.pdb
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.csprojAssemblyReference.cache
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko_MarkupCompile.cache
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko_MarkupCompile.lref
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.g.resources
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.AssemblyInfo.cs
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.dll
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.pdb
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Menu.g.cs
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Menu.baml
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Unit.g.cs
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Unit.baml
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Resources\Styles.baml
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\UnitMenu.g.cs
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\UnitMenu.baml
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\DetailsPanel.g.cs
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\DetailsPanel.baml
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\QuizMenu.g.cs
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\QuizMenu.baml
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Quiz.g.cs
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Quiz.baml
+C:\Users\user\Desktop\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.csproj.CopyComplete
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\user\Desktop\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.exe
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.deps.json
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.runtimeconfig.json
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.runtimeconfig.dev.json
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.dll
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.pdb
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.csprojAssemblyReference.cache
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\DetailsPanel.g.cs
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Menu.g.cs
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Quiz.g.cs
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\QuizMenu.g.cs
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Unit.g.cs
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\UnitMenu.g.cs
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko_MarkupCompile.cache
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko_MarkupCompile.lref
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\DetailsPanel.baml
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Menu.baml
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Quiz.baml
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\QuizMenu.baml
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Resources\Styles.baml
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Unit.baml
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\UnitMenu.baml
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.g.resources
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.AssemblyInfo.cs
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.csproj.CopyComplete
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.dll
+C:\Users\user\Documents\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.pdb
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.exe
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.deps.json
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.runtimeconfig.json
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.runtimeconfig.dev.json
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.dll
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\EkpaideftikoLogismiko.pdb
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.csproj.AssemblyReference.cache
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\DetailsPanel.g.cs
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Menu.g.cs
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Quiz.g.cs
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\QuizMenu.g.cs
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Unit.g.cs
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\UnitMenu.g.cs
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko_MarkupCompile.cache
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko_MarkupCompile.lref
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\DetailsPanel.baml
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Menu.baml
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Quiz.baml
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\QuizMenu.baml
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Resources\Styles.baml
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\Unit.baml
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\UnitMenu.baml
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.g.resources
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.AssemblyInfoInputs.cache
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.AssemblyInfo.cs
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.csproj.CoreCompileInputs.cache
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.csproj.CopyComplete
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.dll
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.pdb
+C:\Users\billy\Documents\Εργασίες\Εργασίες\4o Έτος\8o Εξάμηνο\Εκπαιδευτικό Λογισμικό\EkpaideftikoLogismiko\obj\Debug\netcoreapp3.1\EkpaideftikoLogismiko.genruntimeconfig.cache

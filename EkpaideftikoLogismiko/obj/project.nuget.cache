@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ZbEXmZsggU2a1u8FJI+Jy8r6kdC8IP6fl40yHFLmZQYOIE2FullsHy6zs6qdAGFGP/xqCxKEzdgrvDcRUcp0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\billy\\Documents\\Εργασίες\\Εργασίες\\4o Έτος\\8o Εξάμηνο\\Εκπαιδευτικό Λογισμικό\\EkpaideftikoLogismiko\\EkpaideftikoLogismiko.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\billy\\.nuget\\packages\\npgsql\\4.1.3.1\\npgsql.4.1.3.1.nupkg.sha512",
+    "C:\\Users\\billy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

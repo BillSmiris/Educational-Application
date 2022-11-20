@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="EkpaideftikoLogismiko.Quiz"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EkpaideftikoLogismiko"
+             mc:Ignorable="d" FontSize="20"
+             d:DesignHeight="1080" d:DesignWidth="1920" Background="White">
+    <UserControl.Resources>
+        <ResourceDictionary Source="/EkpaideftikoLogismiko;component/Resources/Styles.xaml"/>
+    </UserControl.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="title" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" FontWeight="Bold"/>
+        <TextBlock x:Name="questionTimer" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="32"/>
+        <StackPanel x:Name="questionPanel" Orientation="Vertical" Grid.Row="2" Grid.Column="0" Margin="20,0,0,0">
+            <TextBlock x:Name="question" FontSize="24" Margin="0,0,0,10"/>
+            <RadioButton x:Name="answer1" GroupName="answer" Checked="answer_Checked" Cursor="Hand"  VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="0,0,0,10"/>
+            <RadioButton x:Name="answer2" GroupName="answer" Checked="answer_Checked" Cursor="Hand" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="0,0,0,10"/>
+            <RadioButton x:Name="answer3" GroupName="answer" Checked="answer_Checked" Cursor="Hand" VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="0,0,0,10"/>
+            <RadioButton x:Name="answer4" GroupName="answer" Checked="answer_Checked" Cursor="Hand" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="0,0,0,10"/>
+            <Button x:Name="answerButton" Style="{StaticResource MenuButton}" Content="Απάντηση" IsEnabled="False" Click="answerButton_Click"/>
+        </StackPanel>
+        <StackPanel x:Name="endPanel" Orientation="Vertical" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center"  Visibility="Collapsed">
+            <TextBlock x:Name="grade" Grid.Column="0" Grid.Row="2" FontSize="24"/>
+            <Button x:Name="restartButton" Style="{StaticResource MenuButton}" Content="Επανεκκίνιση" Click="restartButton_Click"/>
+        </StackPanel>
+        <Button x:Name="backButton" Style="{StaticResource MenuButton}" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Bottom" Content="Πίσω" Click="backButton_Click"/>
+    </Grid>
+</UserControl>
