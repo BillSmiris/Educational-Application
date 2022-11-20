@@ -1,0 +1,10 @@
+CREATE TABLE users
+(
+    id SERIAL NOT NULL ,
+    username varchar(255) NOT NULL,
+    password varchar(255) NOT NULL,
+    user_type boolean NOT NULL,
+    CONSTRAINT users_pkey PRIMARY KEY (id)
+)
+
+INSERT INTO users (username, password, user_type) VALUES ('student1', 'pass1', true)
